@@ -19,4 +19,4 @@ Como la verdad no se que mas decir, cualquier extra que quieran saber de mí est
 Pero bueno, les dejo unas fotos de mi perrita 
 
 ## Fotos de Sara:
-<img src="sara1.jpeg" width="450"/> <img src="sara2.jpeg" width="450"/> 
+<img src="sara1.jpeg" width="250"/> <img src="sara2.jpeg" width="250"/> 
